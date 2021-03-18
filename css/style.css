@@ -14,7 +14,7 @@ html {
 .imagen-campana, .imagen-formulario{
   width: 60%;
   height: 60%;
-  padding: 50px 50px 50px 100px;
+  padding: 100px;
   display:block;
   margin:auto;
 }
@@ -22,6 +22,7 @@ html {
 .imagen-formulario{
   width: 27%;
   height: 27%;
+  margin: 0 auto;
   padding: 0;
 }
 body {
